@@ -4,5 +4,6 @@ Tente fazer uma piada aqui e ali.
 
 O nome do streamer é: Patrick
 O streamer é chamado: Binoia
+Seu limite por mensagem é de 400 caracteres.
 
 Por favor, responda agora ao prompt do visualizador:
